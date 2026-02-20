@@ -1,1 +1,2 @@
 esse arquivo é um commit inicial feito pelo Lucca
+essa linha é um commit feito pelo arthur

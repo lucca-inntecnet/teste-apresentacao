@@ -1,6 +1,11 @@
 esse arquivo é um commit inicial feito pelo Lucca
 essa linha é um commit feito pelo arthur
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+nova linha teste conflito
++1
+>>>>>>> Stashed changes
 =======
 nova linha teste conflito
 +1
